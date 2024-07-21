@@ -1,5 +1,5 @@
 - Clone the project;
 - Install php and js libraries using `composer install` and `npm install` respectively;
 - Clone .env.example to .env;
-- Run `php artisan migrate --seed` to run migration and seeders
-- Enjoy the project
+- Run `php artisan migrate --seed` to run migration and seeders;
+- Enjoy the project.
